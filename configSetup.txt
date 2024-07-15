@@ -47,3 +47,7 @@ importando a font Roboto
 
 no google Fonts copie os links e cole no index.html na pasta public.
 mude o titulo do projeto e coloque o idioma para pt-BR
+
+- crie a pasta containers dentro da pasta container crie a pasta BarraLateral e a pasta ListaDeTarefas.
+- crie os arquivos index.ts dentro de cada pasta e retorne a esturura html conforme desejar.
+- import os arquivos do App.tsx e coloque no retunr a estrutura conforme deseja que os elementos fiquem posicionados.
