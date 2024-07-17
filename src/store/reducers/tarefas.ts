@@ -34,3 +34,7 @@ const tarefasSlice = createSlice({
     }
   }
 })
+
+export const { remover } = tarefasSlice.actions
+
+export default tarefasSlice.reducer
